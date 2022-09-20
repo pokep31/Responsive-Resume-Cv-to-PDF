@@ -1,0 +1,5 @@
+# Ignora archivos del sistema Mac 
+.DS_Store
+Text_Resume_Cv.txt
+preview.png
+pdf
